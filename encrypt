@@ -1,0 +1,2 @@
+#!/bin/zsh
+rage -R ~/.ssh/id_ed25519.pub -a -o build-and-run.age build-and-run.secret
